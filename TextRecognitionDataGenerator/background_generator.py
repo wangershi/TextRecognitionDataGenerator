@@ -60,7 +60,7 @@ class BackgroundGenerator(object):
         """
             Create a background with a picture
         """
-
+asfas
         pictures = os.listdir('./pictures')
 
         if len(pictures) > 0:
